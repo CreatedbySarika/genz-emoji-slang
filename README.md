@@ -35,6 +35,9 @@ Not everytime a person sends a smiley emoji means smile
 ## Project Structure ##
 
 ## how it works ##
+**Step-1:** select an option 
+**Step-2-a** If you select emoji slang then enter the emoji
+
 
 ## Future improvement ##
 
