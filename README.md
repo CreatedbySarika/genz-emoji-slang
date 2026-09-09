@@ -5,11 +5,7 @@ A simple Python application that translates emojis into their Gen Z slang meanin
 ## Features ##
 
 1.Convert emojis into Gen Z slang descriptions
-
 2.Uses a dictionary for fast emoji lookup
-
-3. Supports multiple emoji mappings
-
+3.Supports multiple emoji mappings
 4.Beginner-friendly Python project
-
 5.Easily expandable with new emojis and meanings
