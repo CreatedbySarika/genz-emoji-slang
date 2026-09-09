@@ -10,6 +10,15 @@ A simple Python application that translates emojis into their Gen Z slang meanin
 4.Beginner-friendly Python project\
 5.Easily expandable with new emojis and meanings
 
+## Demonstration ##
+Not everytime a person sends a smiley emoji means smile
+
+<Table>
+<tr><td>🙂</td><td>fake smile<td></tr>
+<tr><td>😁</td><td>cheeky smile<td></tr>
+
+</Table>
+
 
 
 
