@@ -32,6 +32,17 @@ Not everytime a person sends a smiley emoji means smile
 
 <code> python emoji.py </code>
 
+## Project Structure ##
+
+## how it works ##
+
+## Future improvement ##
+
+## Skills ##
+
+## Author ##
+Sarika Sah
+
 
 
 
