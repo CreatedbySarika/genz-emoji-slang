@@ -22,16 +22,19 @@ Not everytime a person sends a smiley emoji means smile
 ## Installation ##
 1. clone the repository
 
-<code>git clone https://github.com/your-username/genz-emoji-slang.git</code>
+```bash
+git clone https://github.com/your-username/genz-emoji-slang.git
+```
 
 2. Navigate to the project directory:
 
-<code> cd genz-emoji-slang </code>
-
+```bash
+ cd genz-emoji-slang
+```
 3. Run the python Script:
-
-<code> python emoji.py </code>
-
+```bash
+python emoji.py
+```
 ## Project Structure ##
 
 ## how it works ##
